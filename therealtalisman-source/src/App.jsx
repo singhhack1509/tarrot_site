@@ -212,9 +212,9 @@ function TierCard({ tier, accent = "gold", onBook }) {
 }
 
 
-const UPI_ID = "8377061610@ibl"; 
+const UPI_ID = "vaibhavi08@fam"; 
 const UPI_PAYEE_NAME = "therealtalisMAN"; 
-const WHATSAPP_NUMBER = "918744941008"; 
+const WHATSAPP_NUMBER = "918828425834"; 
 const CONTACT_EMAIL = "therealtalisman13@gmail.com"; 
 
 function buildUpiLink({ amount, note }) {
