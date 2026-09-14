@@ -218,9 +218,9 @@ function TierCard({ tier, accent = "gold", onBook }) {
    Payments land straight in the UPI_ID below; there is no automatic
    confirmation, so the flow ends with a WhatsApp nudge so the booking
    can be confirmed by hand. ------------------------------------------- */
-const UPI_ID = "vaibhavi08@fam"; // TODO: replace with the real UPI ID (VPA)
+const UPI_ID = "8377061610@ibl"; // TODO: replace with the real UPI ID (VPA)
 const UPI_PAYEE_NAME = "therealtalisMAN"; // shown inside the customer's UPI app
-const WHATSAPP_NUMBER = "918828425834"; // TODO: country code + number, no + or spaces
+const WHATSAPP_NUMBER = "918744941008"; // TODO: country code + number, no + or spaces
 const CONTACT_EMAIL = "therealtalisman13@gmail.com"; // TODO: replace with your real contact email
 
 function buildUpiLink({ amount, note }) {
